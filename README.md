@@ -7,3 +7,10 @@
 Как переписку видит пользователь:</p> <br>
 
 <img src="screenshots/what_user_sees.png" alt="Пример переписки" />
+
+В свою очередь, администратор видит так: <br>
+
+<img src="screenshots/what_admin_sees_1.png" alt="Пример переписки" />
+<br>
+<img src="screenshots/what_admin_sees_2.png" alt="Пример переписки" />
+<br>
