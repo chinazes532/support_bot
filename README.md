@@ -14,3 +14,16 @@
 <br>
 <img src="screenshots/what_admin_sees_2.png" alt="Пример переписки" />
 <br>
+
+<h1>Установка</h1>
+
+<h3>Системные требования</h3>
+
+<ol>
+    <li>Python 3.9 и выше.</li>
+    <li>Колнируйте к себе репозиторий.</li>
+    <li>Создайте виртуальное окружение.</li>
+    <li>Замените нужные параметры в файле <code>config.py</code>.</li>
+    <li>Установите зависимости <code>pip install -r requirements.txt</code>.</li>
+    <li>Запустите файл <code>python3 main.py</code></li>
+</ol>
